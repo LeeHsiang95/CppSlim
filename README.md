@@ -1,6 +1,5 @@
-# CSlim
-### An implementation of FitNesse SliM in C
-### Authors:  Robert Martin, James Grenning, and Doug Bradbury
+# CppSlim
+### An implementation of FitNesse SliM in Cpp.
 
 ## Fixtures
 
